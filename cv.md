@@ -9,7 +9,7 @@
 * About me
 
   + Start from cooking, then i work in sell. I have try to learn Java, but didn't. Finish studing course from Youtube bloger of HTML creating sites, butt now i want to learn JavaScript.
-* Skils 
+* Skilss
 
   + HTML, CSS, FlexBox, Grid
 * My code
